@@ -9,7 +9,7 @@ We hope that this project can be used as a reference for other projects and that
 ## Video
 The following video provides an overview of all features provided by CCSApp:
 
-https://github.com/ccsapp/.github/assets/25906270/f957e24b-d6c6-4bd3-8ddd-2267fb57d8c4
+https://github.com/ccsapp/.github/assets/25906270/bcbf66ae-257e-4efa-a9fb-39622a57a23b
 
 ## License
 CCSApp is licensed under the MIT license.
